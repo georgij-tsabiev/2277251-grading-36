@@ -45,7 +45,6 @@ body {
   flex-direction: column;
   height: 100%;
   margin: 0 auto;
-  min-width: 1400px;
   background-color: #ffffff;
   font-family: "PT Sans", sans-serif;
   font-weight: 400;
@@ -1673,7 +1672,7 @@ html {
 
 .services {
   background-color: #f4f7f9;
-  padding: 52px 115px;
+  padding: 52px 36px;
 }
 
 .services .container {
